@@ -84,3 +84,25 @@ margin:5px;
      flex-direction: column-reverse;
    
    }
+   .item-5{
+
+    background-color: #b3ff99;
+   height: 70px;
+   width: 80px;
+   font-size: 32px;
+   padding: 10px;
+   border-radius: 10px;
+   border: solid 1px white;
+   margin:5px; 
+   }
+   .container-5{
+       background-color: #00a3cc;
+       height: 200px;
+       width:auto;
+       padding:20px;
+       margin-top: 10px;
+       display: flex;
+     flex-direction:row;
+     flex-wrap:wrap;
+   
+   }
