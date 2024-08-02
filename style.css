@@ -9,6 +9,7 @@
     padding:20px;
    display: flex;
 flex-direction: row-reverse;
+
 }
 .item{
     background-color: #b3ff99;
@@ -39,6 +40,7 @@ margin:5px;
     margin-top: 10px;
     display: flex;
   flex-direction: row;
+ 
 
 }
 .container-3{
@@ -74,11 +76,11 @@ margin:5px;
    }
    .container-4{
        background-color: #00a3cc;
-       height: 200px;
+       height: 320px;
        width:auto;
        padding:20px;
        margin-top: 10px;
        display: flex;
-     flex-direction: row;
+     flex-direction: column-reverse;
    
    }
